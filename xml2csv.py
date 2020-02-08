@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+
+# Credit where credit is due...
 __author__ = 'Jake Miller (@LaconicWolf)'
 __date__ = '20171220'
 __version__ = '0.01'
