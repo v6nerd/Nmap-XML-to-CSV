@@ -1,6 +1,8 @@
 # Nmap - xml2csv
 Converts Nmap XML output to csv file, and other useful functions. Ignores hosts that are down and ports that are not open.
+
 As featured in, Advanced Nmap - Scanning Large Scale Networks:
+
 https://www.youtube.com/watch?v=okCNbKSdmDA
 
 ## Usage
